@@ -1,8 +1,6 @@
 - Hi, I am Sanket Chougule.
 - I am a solo indie game developer. I normally use Godot to make games.
-- But I am currently learning VULKAN API so I don't have to rely on any software to make games.
-- (This is my first time learning any kind of API)
-
+- And I make godot plugins to make using godot easier and faster for beginners and for pros.
 - here are some of my social media links and workspace links:
 - itch.io https://sanketsbrush.itch.io/
 - discord https://discord.gg/qAyrBFqRwt.
