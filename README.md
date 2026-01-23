@@ -1,9 +1,4 @@
 - Hi, I am Sanket Chougule.
-- I am a solo indie game developer. I normally use Godot to make games.
+- I am indie game developer. I normally use Godot to make games.
 - And I make godot plugins to make using godot easier and faster for beginners and for pros.
-- here are some of my social media links and workspace links:
-- itch.io https://sanketsbrush.itch.io/
-- discord https://discord.gg/qAyrBFqRwt.
-- youtube https://www.youtube.com/@sanketsbrush
-- sketchfab https://sketchfab.com/sanketsbrush
-- instagram https://www.instagram.com/sanketsbrush/
+- here are some of my social media links and workspace links: https://sanketsbrush.carrd.co/
